@@ -7,4 +7,4 @@
 
 ## Install the package
 
-pip install agent-framework --pre
+pip install --pre -r requirements.txt
